@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "6528fe3b534df9ec5bd79867"
+  },
+  "Title": "bibit tanaman",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/close-up-gardener-holding-plant_23-2148396756.jpg?w=740&t=st=1697175847~exp=1697176447~hmac=28e65517e33941a27f261d18bbb7bd641a462a566ccc04e8c9a0857a996b74db"
+},
+{
+  "_id": {
+    "$oid": "65290380534df9ec5bd79870"
+  },
+  "Title": "labu",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/close-up-gardeners-holding-organic-tomatoes_23-2148396755.jpg?w=740&t=st=1697175826~exp=1697176426~hmac=ea7a580bdeb52cca559113f155a3134c3f9049faa810b52554905c3856cb54ff"
+},
+{
+  "_id": {
+    "$oid": "6528facb534df9ec5bd7985e"
+  },
+  "Title": "Gembor Tanaman",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/high-angle-gardener-watering-plants_23-2148396761.jpg?w=740&t=st=1697175953~exp=1697176553~hmac=5666dc43111b1b67ce1017743e1d67fcb7eb410685a73deed2920e3ded28da90"
+},
+{
+  "_id": {
+    "$oid": "65290380534df9ec5bd79871"
+  },
+  "Title": "bibit tanaman gatau",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/large-green-rice-field-with-green-rice-plants-rows_181624-28862.jpg?w=740&t=st=1697176046~exp=1697176646~hmac=01e47504b45450c954f2b7ef4ad8732635657c730deb8da1cb87bd2b7cf8db0e"
+},
+{
+  "_id": {
+    "$oid": "6528ff91534df9ec5bd7986a"
+  },
+  "Title": "Grobak Sayur",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/mix-vegetables-wheelbarrow_23-2148396787.jpg?w=740&t=st=1697175975~exp=1697176575~hmac=41daa26e345768f5b19ecd94efd91d5b6af933f8a135264508e3280e725ba1c9"
+},
+{
+  "_id": {
+    "$oid": "65290380534df9ec5bd7986e"
+  },
+  "Title": "bibit tanaman ilalang",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/farmer-holds-rice-hand_1150-6063.jpg?w=740&t=st=1697176120~exp=1697176720~hmac=6cc2ca0dd3980824efa75b31b4755c92ad0e2698145f18a7e1359706bb9871da"
+},
+{
+  "_id": {
+    "$oid": "65290380534df9ec5bd7986d"
+  },
+  "Title": "botol semprot",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/high-angle-gardener-watering-plants_23-2148396761.jpg?w=740&t=st=1697175953~exp=1697176553~hmac=5666dc43111b1b67ce1017743e1d67fcb7eb410685a73deed2920e3ded28da90"
+},
+{
+  "_id": {
+    "$oid": "65290380534df9ec5bd7986f"
+  },
+  "Title": "pestisida",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://gkmdblog.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2023/07/05035551/Blog-Pestisida-Terdaftar-Berizin.jpeg"
+},
+{
+  "_id": {
+    "$oid": "652e6a537dfafe508dd39ac6"
+  },
+  "Title": "Best Seller",
+  "URL": "https://drive.google.com/file/d/1T1FVrmxLfSBKYvWpmSyapRs4qzaIprMb/view?usp=drive_link"
+}]

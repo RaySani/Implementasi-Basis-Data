@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "65329e91841d351576373789"
+  },
+  "Username": "Wargoat",
+  "Password": "Wargoat12345",
+  "Email": "Wargoat@gmail.com",
+  "Nomor": {
+    "$numberLong": "85673475892"
+  },
+  "Alamat": "Jalan Telekomunikasi No.1"
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6536223157a3a97bfddb9593"
+  },
+  "Title": "Padi",
+  "Deskripsi": "isi 12 buah",
+  "Harga": "Rp.50.000",
+  "Jumlah": 1,
+  "URL": "https://images.unsplash.com/photo-1561504935-4e7d4516a2d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"
+},
+{
+  "_id": {
+    "$oid": "6536223157a3a97bfddb9592"
+  },
+  "Title": "Wortel",
+  "Deskripsi": "isi 12 buah",
+  "Harga": "Rp.50.000",
+  "Jumlah": 1,
+  "URL": "https://images.unsplash.com/photo-1594400315019-a03cc9acb85a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"
+},
+{
+  "_id": {
+    "$oid": "6536223157a3a97bfddb9594"
+  },
+  "Title": "Gloves",
+  "Deskripsi": "1 pasang",
+  "Harga": "Rp.50.000",
+  "Jumlah": 1,
+  "URL": "https://images.unsplash.com/photo-1599778150914-88e98e0c3a3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+}]

@@ -1,0 +1,413 @@
+[{
+  "_id": {
+    "$oid": "6528fe3b534df9ec5bd79867"
+  },
+  "Title": "bibit tanaman",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/close-up-gardener-holding-plant_23-2148396756.jpg?w=740&t=st=1697175847~exp=1697176447~hmac=28e65517e33941a27f261d18bbb7bd641a462a566ccc04e8c9a0857a996b74db",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a4",
+      "NamaKategori": "Best Seller"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a6",
+      "NamaKategori": "Bahan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65290380534df9ec5bd79870"
+  },
+  "Title": "labu",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/close-up-gardeners-holding-organic-tomatoes_23-2148396755.jpg?w=740&t=st=1697175826~exp=1697176426~hmac=ea7a580bdeb52cca559113f155a3134c3f9049faa810b52554905c3856cb54ff",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a4",
+      "NamaKategori": "Best Seller"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a6",
+      "NamaKategori": "Bahan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6528facb534df9ec5bd7985e"
+  },
+  "Title": "Gembor Tanaman",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/high-angle-gardener-watering-plants_23-2148396761.jpg?w=740&t=st=1697175953~exp=1697176553~hmac=5666dc43111b1b67ce1017743e1d67fcb7eb410685a73deed2920e3ded28da90",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a4",
+      "NamaKategori": "Best Seller"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a5",
+      "NamaKategori": "Peralatan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65290380534df9ec5bd79871"
+  },
+  "Title": "bibit tanaman gatau",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/large-green-rice-field-with-green-rice-plants-rows_181624-28862.jpg?w=740&t=st=1697176046~exp=1697176646~hmac=01e47504b45450c954f2b7ef4ad8732635657c730deb8da1cb87bd2b7cf8db0e",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a4",
+      "NamaKategori": "Best Sellers"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a6",
+      "NamaKategori": "Bahan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6528ff91534df9ec5bd7986a"
+  },
+  "Title": "Grobak Sayur",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/mix-vegetables-wheelbarrow_23-2148396787.jpg?w=740&t=st=1697175975~exp=1697176575~hmac=41daa26e345768f5b19ecd94efd91d5b6af933f8a135264508e3280e725ba1c9",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a4",
+      "NamaKategori": "Best Seller"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a5",
+      "NamaKategori": "Peralatan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65290380534df9ec5bd7986e"
+  },
+  "Title": "bibit tanaman ilalang",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/farmer-holds-rice-hand_1150-6063.jpg?w=740&t=st=1697176120~exp=1697176720~hmac=6cc2ca0dd3980824efa75b31b4755c92ad0e2698145f18a7e1359706bb9871da",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a4",
+      "NamaKategori": "Best Seller"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a6",
+      "NamaKategori": "Bahan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65290380534df9ec5bd7986d"
+  },
+  "Title": "botol semprot",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://img.freepik.com/free-photo/high-angle-gardener-watering-plants_23-2148396761.jpg?w=740&t=st=1697175953~exp=1697176553~hmac=5666dc43111b1b67ce1017743e1d67fcb7eb410685a73deed2920e3ded28da90",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a4",
+      "NamaKategori": "Best Seller"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a5",
+      "NamaKategori": "Peralatan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65290380534df9ec5bd7986f"
+  },
+  "Title": "pestisida",
+  "Harga": "RP.5000",
+  "Rating": 4,
+  "URL": "https://gkmdblog.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2023/07/05035551/Blog-Pestisida-Terdaftar-Berizin.jpeg",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a4",
+      "NamaKategori": "Best Seller"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a5",
+      "NamaKategori": "Peralatan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a537dfafe508dd39ac6"
+  },
+  "Title": "Best Seller",
+  "URL": "https://drive.google.com/file/d/1T1FVrmxLfSBKYvWpmSyapRs4qzaIprMb/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39abe"
+  },
+  "Title": "Pupuk",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1492496913980-501348b61469?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a6",
+      "NamaKategori": "Bahan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39ac3"
+  },
+  "Title": "Padi Tua",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1592997571659-0b21ff64313b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a6",
+      "NamaKategori": "Bahan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39abb"
+  },
+  "Title": "Tomat",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1461354464878-ad92f492a5a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a6",
+      "NamaKategori": "Bahan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39ac0"
+  },
+  "Title": "Bibit Tanaman",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1615671524827-c1fe3973b648?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a6",
+      "NamaKategori": "Bahan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39ac4"
+  },
+  "Title": "Gerobak Tiga Roda",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1556413084-41a81ea2ade7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a5",
+      "NamaKategori": "Peralatan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39ab9"
+  },
+  "Title": "Wortel",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1594400315019-a03cc9acb85a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a6",
+      "NamaKategori": "Bahan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39abc"
+  },
+  "Title": "Sarung Tangan",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1599778150914-88e98e0c3a3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a7",
+      "NamaKategori": "Perlengkapan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39ac2"
+  },
+  "Title": "Bengkoang",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1594400316020-f357da8a2848?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a6",
+      "NamaKategori": "Bahan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39aba"
+  },
+  "Title": "Padi",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1561504935-4e7d4516a2d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a6",
+      "NamaKategori": "Bahan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39abf"
+  },
+  "Title": "Gembor",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1597868165921-3e37f22b0c6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+  "Categories": [
+    {
+      " idKategori": "65366643cbbfc1324e71c7a5",
+      "NamaKategori": "\"Peralatan\""
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      " NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39ac1"
+  },
+  "Title": "Perkakas",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1640306107674-23b73a335f12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
+  "Categories": [
+    {
+      "idKategori": "65366643cbbfc1324e71c7a5",
+      "NamaKategori": "Peralatan"
+    },
+    {
+      "idKategori": "65366643cbbfc1324e71c7a3",
+      "NamaKategori": "Semua Kategori"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e6a477dfafe508dd39abd"
+  },
+  "Title": "Raspberry",
+  "Rating": 4,
+  "Harga": "RP.125.000",
+  "URL": "https://images.unsplash.com/photo-1514756062153-4d9b55947090?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+  "Category": [
+    "Bahan",
+    "Semua Kategori"
+  ]
+}]

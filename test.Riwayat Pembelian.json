@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6536260e57a3a97bfddb9599"
+  },
+  "Title": "Gloves",
+  "Deskripsi": "1 pasang x Rp50.000",
+  "Tanggal": "20 Agu 2023",
+  "Kode Pembelian": "INV/20230720/30213245",
+  "Total Belanja": "Rp50.000",
+  "URL": "https://images.unsplash.com/photo-1599778150914-88e98e0c3a3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+},
+{
+  "_id": {
+    "$oid": "6536260e57a3a97bfddb959a"
+  },
+  "Title": "Wortel",
+  "Deskripsi": "isi 12 buah x Rp50.000",
+  "Tanggal": "20 Agu 2023",
+  "Kode Pembelian": "INV/20230720/30213355",
+  "Total Belanja": "Rp50.000",
+  "URL": "https://images.unsplash.com/photo-1594400315019-a03cc9acb85a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"
+},
+{
+  "_id": {
+    "$oid": "6536260e57a3a97bfddb959b"
+  },
+  "Title": "Padi",
+  "Deskripsi": "isi 12 buah x Rp50.000",
+  "Tanggal": "20 Agu 2023",
+  "Kode Pembelian": "INV/20230720/30227766",
+  "Total Belanja": "Rp50.000",
+  "URL": "https://images.unsplash.com/photo-1561504935-4e7d4516a2d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80"
+}]
